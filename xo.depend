@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1539010429 source:c:\users\paula g\desktop\xo\main.cpp
+	<iostream>
+	"XO.h"
+
+1539015478 source:c:\users\paula g\desktop\xo\xo.cpp
+	"XO.h"
+
+1539012612 c:\users\paula g\desktop\xo\xo.h
+	<string>
+	<iostream>
+
