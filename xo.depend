@@ -1,12 +1,25 @@
 # depslib dependency file v1.0
-1539010429 source:c:\users\paula g\desktop\xo\main.cpp
+1539021560 source:c:\users\paula g\desktop\xo\main.cpp
 	<iostream>
 	"XO.h"
 
-1539015478 source:c:\users\paula g\desktop\xo\xo.cpp
+1539021627 source:c:\users\paula g\desktop\xo\xo.cpp
 	"XO.h"
 
-1539012612 c:\users\paula g\desktop\xo\xo.h
+1539020674 c:\users\paula g\desktop\xo\xo.h
 	<string>
 	<iostream>
+	<stdlib.h>
+
+1539035984 source:c:\users\paula\desktop\xo\main.cpp
+	<iostream>
+	"XO.h"
+
+1539035993 c:\users\paula\desktop\xo\xo.h
+	<string>
+	<iostream>
+	<stdlib.h>
+
+1539036056 source:c:\users\paula\desktop\xo\xo.cpp
+	"XO.h"
 
